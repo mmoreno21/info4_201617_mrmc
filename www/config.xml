@@ -2,22 +2,22 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.pong_sergi_curtu"
-        versionCode = "4" 
-        version     = "0.1.00" >
+        id          = "cat.numancia.pong_maria_reyes"
+        versionCode = "1" 
+        version     = "0.1.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	
 
-   <name>Pong SCB</name>
+   <name>Pong MMC</name>
 
    <description>
-       Un pong fet per alumnes de 4t del Numància
+       Un pong fet per Maria Reyes alumne de 4t del Numància
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="mmoreno21@iesnumancia.cat">
+       Maria Reyes
     </author>
 
     <!-- EN ARRENCAR L'APP LLLEGIRÀ L'ARXIU INDEX.HTML-->	
